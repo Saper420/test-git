@@ -1,10 +1,11 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: 'Oswald', sans-serif;
 }
 .container{
     height: 80%;
-    width: 40%;
+    width: auto;
     position: absolute;
     top: 50%;
     left: 50%;
